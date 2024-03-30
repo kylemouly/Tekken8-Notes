@@ -47,7 +47,7 @@
 # Duckable Moves
 - F3,2
     - Mid High (Can mix with F3 --> Liberator) Can try to fuzzy duck and react to stance with stand block.
-- F3,3+4
+- F4,4
     - Mid High Homing HE (Technically hit-confirmable) Can cancel into a mid (Can fuzzy)
 - DF4,1
     - Mid High (Pretty easy hit-confirm)
